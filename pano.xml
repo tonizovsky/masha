@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18043" appversion="6.1.11" id="node1">
+  <input width="339" height="339" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0">
+    <level width="339" height="339" preload="1" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" fov="70" projection="4" pan="0"/>
+    <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+    <min fovpixel="2" tilt="-57.3648" pan="-180"/>
+    <max tilt="57.3648" fovfisheye="360" fov="120" fovstereographic="270" pan="180"/>
+  </view>
+  <userdata title="" tags="Desktop" longitude="" heading="0" comment="" customnodeid="" description="" copyright="" latitude="" info="" nodeid="node1" datetime="" source="" author=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label enabled="1" textalpha="1" borderradius="1" wordwrap="1" width="180" height="20" bordercolor="0x000000" borderalpha="1" border="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" background="1"/>
+    <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition type="crossdissolve" zoomfov="20" enabled="1" zoomafteroutfov="20" zoomafterinfov="90" zoomin="0" softedge="0" zoomout="0" blendtime="1" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control rubberband="0" lockedmouse="0" contextprojections="0" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0"/>
+</panorama>
